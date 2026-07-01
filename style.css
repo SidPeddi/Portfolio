@@ -267,6 +267,10 @@ section {
   position: relative;
 }
 
+#about .section__pic-container {
+  margin: 2rem auto;
+}
+
 .about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
